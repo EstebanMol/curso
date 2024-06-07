@@ -1,0 +1,8 @@
+com\curso\curso\controllers\UsuarioController.class
+com\curso\curso\models\Usuario.class
+com\curso\curso\dao\UsuarioDao.class
+com\curso\curso\ServletInitializer.class
+com\curso\curso\controllers\AuthController.class
+com\curso\curso\CursoApplication.class
+com\curso\curso\utils\JWTUtil.class
+com\curso\curso\dao\UsuarioDaoImp.class
